@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <div className="text-9xl">🤖</div>
-      <h1>Ralles Rechnungsroboter</h1>
+      <h1 className="mt-2">Ralles Rechnungsroboter</h1>
 
       <div className="m-16">{renderContent()}</div>
     </>
