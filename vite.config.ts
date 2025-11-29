@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: "/rechnungsroboter/",
+  base: "https://talltidegames.github.io/rechnungsroboter/",
 });
